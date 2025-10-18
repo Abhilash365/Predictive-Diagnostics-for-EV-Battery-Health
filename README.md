@@ -11,7 +11,7 @@ This project implements a comprehensive machine learning pipeline to analyze and
 
 This work directly addresses the challenges faced by fast-charging EV companies, focusing on two critical factors: **maximizing cell life** (e.g., Exponent's 3000-cycle commitment) and ensuring **thermal safety** during high-current charging.
 
-## 🎯 Key Achievements (Resume Points)
+## 🎯 Key Achievements 
 
   * **SoH Prediction**: Modeled **State of Health (SoH)** using a **Time-Series Regressor** (MAE $< 3\%$) to validate **3000-cycle battery life**.
   * **Thermal Anomaly Detection**: Developed an **Isolation Forest** diagnostic system for **early fault warning** in **rapid charging** thermal data.
@@ -66,4 +66,3 @@ Next Steps: Implement and validate the LSTM Network (Phase 2).
 
 -----
 
-*(You would then add your GitHub link to your resume using the name of this project.)*
